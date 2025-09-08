@@ -1,0 +1,3 @@
+2025-09-08 19:30:45,123 - BinanceBot - INFO - Placing market order: BUY 0.01 BTCUSDT
+2025-09-08 19:43:38,456 - BinanceBot - INFO - Market order placed successfully: 12345678
+2025-09-08 19:46:46,789 - BinanceBot - ERROR - Order validation failed: Quantity below minimum: 0.001
